@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,SACE,YAAa,CAEb,kBACF,CAEA,sBAJE,qBAMF","file":"main.8d3a2f24.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.content{\n  display: flex;\n  border: 2px solid black;\n  margin-bottom: 10px;\n}\n\n.content > div {\n  border: 2px solid black;\n}\n"]}

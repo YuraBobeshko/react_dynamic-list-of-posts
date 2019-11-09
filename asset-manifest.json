@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_dynamic-list-of-posts/static/css/main.8d3a2f24.chunk.css",
-    "main.js": "/react_dynamic-list-of-posts/static/js/main.cfe108a6.chunk.js",
-    "main.js.map": "/react_dynamic-list-of-posts/static/js/main.cfe108a6.chunk.js.map",
+    "main.css": "/react_dynamic-list-of-posts/static/css/main.c60e469d.chunk.css",
+    "main.js": "/react_dynamic-list-of-posts/static/js/main.ef6c7bd7.chunk.js",
+    "main.js.map": "/react_dynamic-list-of-posts/static/js/main.ef6c7bd7.chunk.js.map",
     "runtime~main.js": "/react_dynamic-list-of-posts/static/js/runtime~main.69709ad2.js",
     "runtime~main.js.map": "/react_dynamic-list-of-posts/static/js/runtime~main.69709ad2.js.map",
-    "static/js/2.176f3507.chunk.js": "/react_dynamic-list-of-posts/static/js/2.176f3507.chunk.js",
-    "static/js/2.176f3507.chunk.js.map": "/react_dynamic-list-of-posts/static/js/2.176f3507.chunk.js.map",
+    "static/js/2.e57e01a6.chunk.js": "/react_dynamic-list-of-posts/static/js/2.e57e01a6.chunk.js",
+    "static/js/2.e57e01a6.chunk.js.map": "/react_dynamic-list-of-posts/static/js/2.e57e01a6.chunk.js.map",
     "index.html": "/react_dynamic-list-of-posts/index.html",
-    "precache-manifest.1e39007d21b0a51f9faa5528098f6100.js": "/react_dynamic-list-of-posts/precache-manifest.1e39007d21b0a51f9faa5528098f6100.js",
+    "precache-manifest.e7abcb27e5ceb64388d4dcb8f4236b80.js": "/react_dynamic-list-of-posts/precache-manifest.e7abcb27e5ceb64388d4dcb8f4236b80.js",
     "service-worker.js": "/react_dynamic-list-of-posts/service-worker.js",
-    "static/css/main.8d3a2f24.chunk.css.map": "/react_dynamic-list-of-posts/static/css/main.8d3a2f24.chunk.css.map"
+    "static/css/main.c60e469d.chunk.css.map": "/react_dynamic-list-of-posts/static/css/main.c60e469d.chunk.css.map"
   }
 }
